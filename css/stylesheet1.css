@@ -23,3 +23,8 @@ ol {
 .center{
     text-align: center;
 }
+
+img{
+    vertical-align: middle;
+    max-width: 40%;
+}
